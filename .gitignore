@@ -1,0 +1,54 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+.venv/
+env/
+.env/
+
+# VS Code settings
+.vscode/
+
+# Log files
+*.log
+*.out
+*.err
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python environment files
+.env
+*.env
+*.venv
+
+# IDE settings
+.idea/
+
+# Test results
+*.coverage
+*.pytest_cache/
+
+# Cache files
+*.mypy_cache/
+*.cache/
+
+# Ignore pipenv files (if applicable)
+Pipfile
+Pipfile.lock
+
+# Ignore Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
+# Ignore compiled Python files
+*.so
+*.dll
+*.dylib
+
+# Ignore requirements generated files
+requirements.txt.lock
