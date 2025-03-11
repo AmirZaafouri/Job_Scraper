@@ -1,12 +1,12 @@
-# 🌟 Project Name
+# 🌟 Job Scraper TN
 
 ![Project Logo](link_to_your_logo_image)
 
-Welcome to **Project Name**! 🎉 This project aims to Scrap all tunisan Job Website.
+Welcome to **Job Scraper TN**! 🎉 This project aims to Scrap all tunisan Job Website.
 
 ## 🚀 Features
 
-- ✨ **Feature 1**: Filtred For Junior.
+- ✨ **Feature 1**: Filtred by Junior different parameter.
 - ✨ **Feature 2**: Check for Experince level.
 - ✨ **Feature 3**: Add Technologie Requirement Automaticly.
 
