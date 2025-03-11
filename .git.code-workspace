@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".git"
+		},
+		{
+			"path": "venv"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#161E81",
+			"titleBar.activeBackground": "#1E2AB4",
+			"titleBar.activeForeground": "#F9FAFE"
+		}
+	}
+}
