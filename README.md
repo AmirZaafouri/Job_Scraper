@@ -1,7 +1,5 @@
 # 🌟 Job Scraper TN
 
-![Project Logo](link_to_your_logo_image)
-
 Welcome to **Job Scraper TN**! 🎉 This project aims to Scrap all tunisan Job Website.
 
 ## 🚀 Features
