@@ -1,0 +1,6 @@
+email:
+  sender: "amirzaafouri2@gmail.com"
+  password: "wcphyahummnpsxco"
+  smtp_server: "smtp.gmail.com"
+  smtp_port: 587
+  recipient: "amirzaafouri1@gmail.com"
