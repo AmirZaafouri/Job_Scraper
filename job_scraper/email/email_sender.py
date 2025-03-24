@@ -26,6 +26,7 @@ def send_job_listings(email_recipient, html_report):
     msg['To'] = email_recipient
     msg['Subject'] = "Latest Job Listings"
 
+    email_body = html_report
     msg.attach(MIMEText(email_body, "html"))
 
     try:

@@ -6,7 +6,9 @@ if __name__ == "__main__":
     keywords = ['entry-level', 'junior developer', 'software engineer']
     jobs = search_jobs(keywords)
     print(jobs)
+    html_report = generate_html(jobs)
     with open("job_report.html", "w", encoding="utf-8") as file:
         file.write(html_report)
+    # Define recipient email
     recipient_email = "amirzaafouri1@gmail.com"  
     send_job_listings(recipient_email, html_report)
