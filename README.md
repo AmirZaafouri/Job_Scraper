@@ -212,9 +212,6 @@ Before working on new features:
 
 * [ ] Technology/skill filtering
 * [ ] Advanced filtering system
-* [ ] Multiple TanitJobs pages
-* [ ] Persistent storage
-* [ ] Job history
 * [ ] New-job-only notifications
 * [ ] Automatic scheduling
 * [ ] Other Tunisian job websites
@@ -260,9 +257,9 @@ If I haven't worked on this project for a long time:
 1. Read this README.
 2. Check the current Git status.
 3. Read `job_scraper/main.py`.
-4. Read `job_scraper/spiders/TanitJobs_scraper.py`.
+4. Read `job_scraper/spiders/......_scraper.py`.
 5. Check `requirements.txt`.
-6. Check whether the TanitJobs website structure has changed.
+6. Check whether the site website structure has changed.
 7. Run the project before making major changes.
 8. Check the TODO / issues before implementing new features.
 
