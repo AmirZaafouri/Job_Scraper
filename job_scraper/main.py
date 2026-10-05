@@ -11,4 +11,4 @@ if __name__ == "__main__":
         file.write(html_report)
     # Define recipient email
     recipient_email = "amirzaafouri1@gmail.com"  
-    send_job_listings(recipient_email, html_report)
+    # send_job_listings(recipient_email, html_report)

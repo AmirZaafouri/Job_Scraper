@@ -1,2 +1,12 @@
-requests
-beautifulsoup4
+# Core scraping
+DrissionPage==4.1.0.17
+beautifulsoup4==4.12.3
+lxml==5.3.0
+requests==2.32.3
+
+# Email config
+PyYAML==6.0.2
+
+# Optional: used in legacy prototype scripts (job_alert.py, Test.py, By_Pass_Captcha.py)
+selenium==4.27.1
+undetected-chromedriver==3.5.5

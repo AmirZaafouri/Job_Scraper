@@ -27,6 +27,9 @@ Thumbs.db
 *.env
 *.venv
 
+# Local config with credentials — never commit real passwords
+job_scraper/utils/config.yaml
+
 # IDE settings
 .idea/
 
